@@ -1,6 +1,7 @@
 # internship-project
-**internship project
-**instructions:
+internship project
+
+instructions:
 
 - download python
 - download MySQL
