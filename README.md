@@ -15,6 +15,8 @@ instructions:
 - extract both files into your desktop
 - move the movie_app.py folder to PyCharm folder
 - open movie_db.sql in MySQL Workbench
+-Access in Browser:
+   -Visit: http://localhost:5000
 
 What You Can Do:
 
